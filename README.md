@@ -37,7 +37,7 @@ performance on a real industrial robot.
 
 ## Installation
 
-Create and activate a virtual environment:
+Clone the project, then create and activate a virtual environment:
 
 ```bash
 python3 -m venv .venv
